@@ -1,5 +1,5 @@
 title: Test Page
-
+layout: Page
 filename: index.md
 
 # RMHC Resources
